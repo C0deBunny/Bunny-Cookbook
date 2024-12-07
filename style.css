@@ -13,3 +13,11 @@ body {
    color: rgb(99, 69, 131);
    font-family: cursive;
 }
+
+h3 {
+  font-size: 25px;
+}
+
+.links {
+  font-size: 20px;
+}
