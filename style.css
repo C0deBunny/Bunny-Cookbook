@@ -3,10 +3,13 @@ header {
   color: white;
   font-family: cursive;
   font-weight: bold;
-  padding: 20px;
+  padding: 1px;
+  text-align: center;
+  font-size: 30px;
 }
 
 body {
    background-color: #f3d5e9;
-   color: rebeccapurple;
+   color: rgb(99, 69, 131);
+   font-family: cursive;
 }
