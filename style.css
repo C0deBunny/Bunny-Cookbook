@@ -8,14 +8,19 @@ header {
   font-size: 30px;
 }
 
-body {
-   background-color: #f3d5e9;
-   color: rgb(99, 69, 131);
-   font-family: cursive;
+h1 {
+  background-color: #f5b3df;
+  padding: 20px;
 }
 
 h3 {
   font-size: 25px;
+}
+
+body {
+   background-color: #f3d5e9;
+   color: rgb(99, 69, 131);
+   font-family: cursive;
 }
 
 .links {
@@ -31,11 +36,6 @@ button {
 
 button:hover {
   background-color: white;
-}
-
-h1 {
-  background-color: #f5b3df;
-  padding: 20px;
 }
 
 img {
