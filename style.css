@@ -26,6 +26,7 @@ button {
   height: 40px;
   background-color: #f3d5e9;
   border-color: white;
+  border-radius: 6px;
 }
 
 button:hover {
@@ -35,4 +36,11 @@ button:hover {
 h1 {
   background-color: #f5b3df;
   padding: 20px;
+}
+
+img {
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+  border-radius: 20px;
 }
