@@ -1,1 +1,12 @@
- 
+header {
+  background-color: #f5b3df;
+  color: white;
+  font-family: cursive;
+  font-weight: bold;
+  padding: 20px;
+}
+
+body {
+   background-color: #f3d5e9;
+   color: rebeccapurple;
+}
