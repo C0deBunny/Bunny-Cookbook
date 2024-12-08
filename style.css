@@ -21,6 +21,7 @@ body {
    background-color: #f3d5e9;
    color: rgb(99, 69, 131);
    font-family: cursive;
+   margin: 0px;
 }
 
 .links {
@@ -43,4 +44,8 @@ img {
   height: 400px;
   object-fit: cover;
   border-radius: 20px;
+}
+
+.text {
+  margin: 20px;
 }
